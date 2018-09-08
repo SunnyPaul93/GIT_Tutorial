@@ -1,0 +1,2 @@
+Tomcat is just a servlet container, i.e. it implements only the servlets and JSP specification. Glassfish and JBoss are full Java EE servers
+(including stuff like EJB, JMS, ...), with Glassfish being the reference implementation of the latest Java EE 6 stack, but JBoss in 2010 was not fully supporting it yet.
